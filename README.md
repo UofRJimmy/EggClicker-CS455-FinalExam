@@ -1,13 +1,8 @@
-# Final Exam
- Class Name: CS455
- 
- Student Number:200405525
- 
- Name:Chiming Lyu
- 
+#  Class Name: CS455
+
  Web-address:https://snack.expo.dev/@uofrjimmy/finalexam 
  
- Date:2022 April 22
+ Last Modified date:April 22 2022
 
 # Menu
 
