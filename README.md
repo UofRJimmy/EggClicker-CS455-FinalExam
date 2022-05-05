@@ -1,11 +1,28 @@
-# Sample Snack app
+# Final Exam
+ Class Name: CS455
+ 
+ Student Number:200405525
+ 
+ Name:Chiming Lyu
+ 
+ Web-address:https://snack.expo.dev/@uofrjimmy/finalexam 
+ 
+ Date:2022 April 22
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+# Menu
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+1. [Interface](#Interface)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+2. [Tutorial](#Tutorial)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Interface
+
+## Tutorial
+
+This an egg clicker game. Player will earn the clicks by clicking the egg. Player can buy clicks boosting if player have certain amount of clicks. The clicks boosting will automatically increase the clicks amount for player ever second. The winning condition is 1 quadrillion clicks. There is a pop up window show up if player reach winning condition. Everything will reset if player win.
+
+
+
+
+
